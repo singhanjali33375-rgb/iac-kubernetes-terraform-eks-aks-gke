@@ -1,0 +1,7 @@
+k8s-manifests/
+│
+├── namespace.yaml
+├── deployment.yaml
+├── service.yaml
+├── ingress.yaml
+└── configmap.yaml
