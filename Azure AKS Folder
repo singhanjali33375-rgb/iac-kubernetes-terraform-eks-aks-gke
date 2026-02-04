@@ -1,0 +1,9 @@
+azure-aks/
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── provider.tf
+├── versions.tf
+├── network.tf
+└── aks-cluster.tf
