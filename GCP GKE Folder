@@ -1,0 +1,9 @@
+gcp-gke/
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── provider.tf
+├── versions.tf
+├── network.tf
+└── gke-cluster.tf
