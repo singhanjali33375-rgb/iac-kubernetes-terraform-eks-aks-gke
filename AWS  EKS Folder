@@ -1,0 +1,10 @@
+aws-eks/
+│
+├── main.tf
+├── variables.tf
+├── outputs.tf
+├── provider.tf
+├── versions.tf
+├── vpc.tf
+├── iam.tf
+└── eks-cluster.tf
