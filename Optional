@@ -1,0 +1,4 @@
+docs/
+├── architecture.md
+├── terraform-workflow.md
+└── kubernetes-deployment.md
